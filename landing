@@ -1,0 +1,78 @@
+.banner-principal {
+
+	width: 100% !important;
+	
+}
+.prod-imagens{
+width: 300px;
+
+}
+
+.prod-imagens{
+width: 300px;
+
+}
+
+.titulo{
+	margin: 15px 0;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    height: 66px;
+    color: #5c3e37;
+    font-family: Pluto, sans-serif;
+}
+
+.gabriela-promo{
+
+	font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    height: 66px;
+    color: #5c3e37;
+    font-family: Pluto, sans-serif;
+    margin-left: :900px;
+    display: inline;
+    padding bottom: 30px;
+
+}
+
+.gabriela-preco{
+
+   margin: 10px 15px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 500;
+    height: 66px;
+    color: #5c3e37;
+    font-family: Pluto, sans-serif;
+    margin-left: :900px;
+    display: inline;
+}
+
+.parcela{
+
+	margin: 50px 50px 50px 50px;
+    font-size: 17px;
+    text-align: center;
+    color: #828282;
+    font-family: Pluto, sans-serif;
+    padding bottom: 30px;
+  
+}
+
+.boleto{
+	margin: 40px 40px 40px 40px ;
+	font-weight: 100px;
+    font-size: 19px;
+    text-align: center;
+    color: #5c3e37;
+    font-family: Pluto, sans-serif;
+  
+}
+
+.botao{
+margin: 10px 10px 10px 70px;
+
+}
+
